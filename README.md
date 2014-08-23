@@ -1,11 +1,6 @@
-Bootstrap-Dropdown-Extension
-============================
-
-Easily enable content switching in a Bootstrap dropdown
-
 # Bootstrap's Dropdown Extension
 
-Ever needed to use a Bootstrap drodown as a normal HTML dropdown? Now you can!
+Ever needed to use a Bootstrap dropdown as a normal HTML dropdown? Now you can!
 
 ## Features
 
